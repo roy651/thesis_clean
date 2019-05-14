@@ -1,8 +1,6 @@
-# thesis
-# thesis
+# Papyrus Assembly - Thesis Work - Roy Abitbol
 
-## PAPYRUS run sequence
-### inside src/main
+## PAPYRUS run sequence (source inside src/main)
 
 ### TRAIN
 
